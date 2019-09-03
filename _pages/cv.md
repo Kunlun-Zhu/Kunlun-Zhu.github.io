@@ -11,49 +11,37 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Shun Yat-Sen University, 2020
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Summer 2017: Research Assistant
+  * Hongkong City University
+  * Duties included: High Performance machine learning algorithm design
+  * Supervisor: Professor Jing Wu
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Spring 2018: Research student
+  * University of Califorlia, Berkeley
+  * Duties included: Fake News Detector using machine learning and NLP method
+  * Supervisor: Mike Tamir
+  
+* Summer 2018: Research Intern
+  * Carneigie Mellon University
+  * Duties included: Transparency for Deep Reinforcement Learning
+  * Supervisor: Professor Katia Sycara
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* C++
+* Python
+  * Sub-skill Tensorflow
+  * Sub-skill Pytorch
+  * Sub-skill Scikit-learn
+* Cuda
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Student Chief for the computer science major, 2017-2018
+
