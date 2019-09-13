@@ -8,4 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-This is Kunlun Zhu's home page
+My name is Kunlun Zhu, a researcher in Artificial Intelligence, and a programmer.
+
+I am currently a senior student in Sun Yat-Sen University, also serve as a research assistant in Tsinghua Artificial Intelligence Lab.
+
+After I finished my junior year, I went to Carnegie Mellon University Robotics Institue as an intern student for one year.
+
+My research interests lies in Deep Reinforcement Learning and its interpretability, as well as Computer vision, Natural Language Processing, Human-Centered AI.
+
