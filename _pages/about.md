@@ -10,9 +10,11 @@ redirect_from:
 
 My name is Kunlun Zhu, a researcher in Artificial Intelligence, and a programmer.
 
-I am currently a senior student in Sun Yat-Sen University, also serve as a research assistant in Tsinghua Artificial Intelligence Lab.
+I am currently a research assistant in Tsinghua Natural Language Processing Lab.
 
 After I finished my junior year, I went to Carnegie Mellon University Robotics Institue as an intern student for one year.
 
-My research interests lies in Deep Reinforcement Learning and its interpretability, as well as Computer vision, Natural Language Processing, Human-Centered AI.
+After I received my Becholor degree in Sun Yat-Sen University, computer science major, I worked as an AI engineer in ShenZhen, and currently pursuing further study as PhD student in AI areas.
+
+My research interests lies in Deep Reinforcement Learning and AI transparency, as well as Natural Language Processing, Robotics.
 
