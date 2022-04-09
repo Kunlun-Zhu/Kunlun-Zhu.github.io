@@ -14,7 +14,7 @@ I am currently a research assistant in Tsinghua Natural Language Processing Lab.
 
 After I finished my junior year, I went to Carnegie Mellon University Robotics Institue as an intern student for one year.
 
-After I received my Becholor degree in Sun Yat-Sen University, computer science major, I worked as an AI engineer in ShenZhen, and currently pursuing further study as PhD student in AI areas.
+After I received my Bechelor degree in Sun Yat-Sen University, computer science major, I worked as an AI engineer in ShenZhen, and currently pursuing further study as PhD student in AI areas.
 
 My research interests lies in Deep Reinforcement Learning and AI transparency, as well as Natural Language Processing, Robotics.
 
