@@ -29,7 +29,7 @@ My research interests are centered around large language models (LLMs) and their
 
 I'm excited about pushing the boundaries of what's possible with LLMs and exploring how they can be leveraged to solve complex problems across various domains.
 
-Selected Publications
+Selected Publications or Preprints
 ======
 1. **K. Zhu**, Y. Luo, D. Xu, R. Wang, S. Yu, S. Wang, Y. Yan, Z. Liu, X. Han, Z. Liu, et al. "RAGEval: Scenario Specific RAG Evaluation Dataset Generation Framework." [arXiv:2408.01262](https://arxiv.org/abs/2408.01262), 2024.
 2. Y. Qin, S. Hu, Y. Lin, W. Chen, N. Ding, G. Cui, Z. Zeng, Y. Huang, C. Xiao, C. Han, et al. "Tool learning with foundation models." [Under Review at Nature Communications] [arXiv:2304.08354](https://arxiv.org/abs/2304.08354), 2023.
