@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Kunlun Zhu / Home"
+title                    : "Kunlun Zhu"
 title_separator          : "-"
 name                     : &name "Kunlun Zhu"
-description              : &description "AI researcher, programmer"
+description              : &description "Interested in helping the world to adapt in the fast-paced world"
 url                      : https://Kunlun-Zhu.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "Kunlun-Zhu.github.io"
@@ -82,20 +82,20 @@ analytics:
 author:
   name             : "Kunlun-Zhu"
   avatar           : "profile.png"
-  bio              : "Research assistant         Tsinghua University"
-  location         : "Beijing, China"
+  bio              : "Graduate Student         University of Illinois Urbana-Champaign"
+  location         : "United States of America"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    :  #"http://yourfullgooglescholarurl.com"
+  googlescholar    :  "https://scholar.google.com/citations?user=A5L7wZAAAAAJ&hl=en"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              : 
-  email            : "zhuklun@mail2.sysu.edu.cn"
+  email            : "kunlunz2@illinois.edu"
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
-  facebook         : "kunlun97"
+  facebook         : #"kunlun97"
   foursquare       :
   github           : "Kunlun-Zhu"
   google_plus      :
