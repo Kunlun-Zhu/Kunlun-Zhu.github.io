@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello! I am **Kunlun Zhu**, a graduate student at the University of Illinois Urbana-Champaign, I am currently fortunate to with [Prof.Jiaxuan You](https://cs.stanford.edu/people/jiaxuan/) at Ulab. Prior to this, I spent two years as a Research Assistant in the Natural Language Processing group at Tsinghua University and as an Algorithm Engineer at ModelBest Inc., working under the guidance of [Prof. Zhiyuan Liu](https://lzy.thunlp.org/). I'm also proud to be a member of [OpenBMB](https://www.openbmb.cn/en/about-us).
+Hello! I am **Kunlun Zhu**, a graduate student at the University of Illinois Urbana-Champaign, I am currently fortunate to work with [Prof. Jiaxuan You](https://cs.stanford.edu/people/jiaxuan/) at Ulab. Prior to this, I spent two years as a Research Assistant in the Natural Language Processing group at Tsinghua University and as an Algorithm Engineer at ModelBest Inc., working under the guidance of [Prof. Zhiyuan Liu](https://lzy.thunlp.org/). I'm also proud to be a member of [OpenBMB](https://www.openbmb.cn/en/about-us).
 
 My research journey has been diverse and enriching. I had the opportunity to work as a Research Assistant for 6 months at the Mila Quebec AI Institute's Graph Team, collaborating with [Prof. Jian Tang](https://jian-tang.com/). Additionally, I spent a year as a research intern at Carnegie Mellon University's Robotics Institute, working alongside [Prof. Katia Sycara](https://www.cs.cmu.edu/~sycara/).
 
