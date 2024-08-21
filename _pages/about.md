@@ -25,7 +25,7 @@ My research interests are centered around large language models (LLMs) and their
   - Tool learning
   - Multi-agent systems
   - Agents for scientific research
-- Retrieval Augmented Generation(RAG) system
+- Retrieval Augmented Generation(RAG) & QA system
 
 I'm excited about pushing the boundaries of what's possible with LLMs and exploring how they can be leveraged to solve complex problems across various domains.
 
