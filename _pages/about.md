@@ -48,3 +48,12 @@ Selected Publications & Preprints
 
 9. C. Qian, Z. Xie, Y. Wang, W. Liu, **K. Zhu**, Y. Dang, Z. Du, W. Chen, C. Yang, Z. Liu, et al. "Scaling Large-Language-Model-based Multi-Agent Collaboration." [arXiv:2406.07155](https://arxiv.org/abs/2406.07155), 2024.
 
+Services
+======
+
+- **ICLR 2025**: Reviewer
+- **NeurIPS 2025**: Main Conference Reviewer
+- **ICLR 2024**: Reviewer for workshops on "How far are we from AGI" and "LLM agent"
+- **ACL 2024**: Reviewer for the "Word Play" workshop
+- **ACL ARR 2024**: June Reviewer
+
