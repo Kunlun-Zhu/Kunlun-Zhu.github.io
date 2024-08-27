@@ -31,22 +31,22 @@ I'm excited about pushing the boundaries of what's possible with LLMs and explor
 
 Selected Publications & Preprints
 ======
-1. **K. Zhu**, Y. Luo, D. Xu, R. Wang, S. Yu, S. Wang, Y. Yan, Z. Liu, X. Han, Z. Liu, et al. "RAGEval: Scenario Specific RAG Evaluation Dataset Generation Framework." [arXiv:2408.01262](https://arxiv.org/abs/2408.01262), 2024.
-2. Y. Qin, S. Hu, Y. Lin, W. Chen, N. Ding, G. Cui, Z. Zeng, Y. Huang, C. Xiao, C. Han, et al. "Tool learning with foundation models." [Under Review at Nature Communications] [arXiv:2304.08354](https://arxiv.org/abs/2304.08354), 2023.
+1. **K. Zhu**, Y. Luo, D. Xu, R. Wang, S. Yu, S. Wang, Y. Yan, Z. Liu, X. Han, Z. Liu, et al. **"RAGEval: Scenario Specific RAG Evaluation Dataset Generation Framework."** [arXiv:2408.01262](https://arxiv.org/abs/2408.01262), 2024.
+2. Y. Qin, S. Hu, Y. Lin, W. Chen, N. Ding, G. Cui, Z. Zeng, Y. Huang, C. Xiao, C. Han, et al. **"Tool learning with foundation models."** [Under Review at Nature Communications] [arXiv:2304.08354](https://arxiv.org/abs/2304.08354), 2023.
 
-3. Y. Qin, Z. Cai, D. Jin, L. Yan, S. Liang, **K. Zhu**, Y. Lin, X. Han, N. Ding, H. Wang, et al. "WebCPM: Interactive Web Search for Chinese Long-form Question Answering." In *Proceedings of the 61st Annual Meeting of the Association for Computational Linguistics (ACL 2023)*, vol. 1, pp. 8968-8988, 2023.
+3. Y. Qin, Z. Cai, D. Jin, L. Yan, S. Liang, **K. Zhu**, Y. Lin, X. Han, N. Ding, H. Wang, et al. **"WebCPM: Interactive Web Search for Chinese Long-form Question Answering."** In *Proceedings of the 61st Annual Meeting of the Association for Computational Linguistics (ACL 2023)*, vol. 1, pp. 8968-8988, 2023.
 
-4. Y. Qin*, S. Liang*, Y. Ye, **K. Zhu**, L. Yan, Y. Lu, Y. Lin, X. Cong, et al. "Toolllm: Facilitating large language models to master 16000+ real-world apis." In *International Conference on Learning Representations (ICLR 2024 spotlight)*, 2024.
+4. Y. Qin*, S. Liang*, Y. Ye, **K. Zhu**, L. Yan, Y. Lu, Y. Lin, X. Cong, et al. **"Toolllm: Facilitating large language models to master 16000+ real-world apis."** In *International Conference on Learning Representations (ICLR 2024 spotlight)*, 2024.
 
-5. S. Liang\*, **K. Zhu\***, R. Tian\*, Y. Qin, H. Wang, X. Cong, Z. Liu, X. Liu, M. Sun. "Exploring format consistency for instruction tuning." *Transactions on Machine Learning Research*, 2023.
+5. S. Liang\*, **K. Zhu\***, R. Tian\*, Y. Qin, H. Wang, X. Cong, Z. Liu, X. Liu, M. Sun. **"Exploring format consistency for instruction tuning."** *Transactions on Machine Learning Research*, 2023.
 
-6. **K. Zhu**, S. Liang, X. Han, Z. Zheng, G. Zeng, Z. Liu, M. Sun. "QASnowball: An Iterative Bootstrapping Framework for High-Quality Question-Answering Data Generation." [arXiv:2309.10326](https://arxiv.org/abs/2309.10326), 2023.
+6. **K. Zhu**, S. Liang, X. Han, Z. Zheng, G. Zeng, Z. Liu, M. Sun. **"QASnowball: An Iterative Bootstrapping Framework for High-Quality Question-Answering Data Generation."** [arXiv:2309.10326](https://arxiv.org/abs/2309.10326), 2023.
 
-7. X. Tang\*, Q. Jin\*, **K. Zhu\***, T. Yuan\*, Y. Zhang\*, W. Zhou, M. Qu, Y. Zhao, J. Tang, Z. Zhang, et al. "Prioritizing Safeguarding Over Autonomy: Risks of LLM Agents for Science." In *ICLR 2024 LLMAgent Workshop*, 2024.
+7. X. Tang\*, Q. Jin\*, **K. Zhu\***, T. Yuan\*, Y. Zhang\*, W. Zhou, M. Qu, Y. Zhao, J. Tang, Z. Zhang, et al. **"Prioritizing Safeguarding Over Autonomy: Risks of LLM Agents for Science."** In *ICLR 2024 LLMAgent Workshop*, 2024.
 
-8. T. Feng\*, **K. Zhu\***, C. Jin\*, J. Liu\*, H. Tu, Z. Cheng, G. Lin, J. You. "How Far Are We From AGI." [arXiv:2405.10313](https://arxiv.org/abs/2405.10313), 2024.
+8. T. Feng\*, **K. Zhu\***, C. Jin\*, J. Liu\*, H. Tu, Z. Cheng, G. Lin, J. You. **"How Far Are We From AGI."** [arXiv:2405.10313](https://arxiv.org/abs/2405.10313), 2024.
 
-9. C. Qian, Z. Xie, Y. Wang, W. Liu, **K. Zhu**, Y. Dang, Z. Du, W. Chen, C. Yang, Z. Liu, et al. "Scaling Large-Language-Model-based Multi-Agent Collaboration." [arXiv:2406.07155](https://arxiv.org/abs/2406.07155), 2024.
+9. C. Qian, Z. Xie, Y. Wang, W. Liu, **K. Zhu**, Y. Dang, Z. Du, W. Chen, C. Yang, Z. Liu, et al. **"Scaling Large-Language-Model-based Multi-Agent Collaboration."** [arXiv:2406.07155](https://arxiv.org/abs/2406.07155), 2024.
 
 Services
 ======
