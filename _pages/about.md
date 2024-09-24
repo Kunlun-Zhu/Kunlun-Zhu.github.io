@@ -57,3 +57,7 @@ Services
 - **ACL 2024**: Reviewer for the "Word Play" workshop
 - **ACL ARR 2024**: June Reviewer
 
+Talk
+======
+- **Introduction to XAgent: The State of the art agent system**: Alibaba Yunxi Agent Workshop 2023
+
