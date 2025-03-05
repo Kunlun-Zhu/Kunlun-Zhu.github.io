@@ -18,8 +18,8 @@ Research
 ======
 My research interests are centered around large language models (LLMs) and their applications. I'm particularly fascinated by:
 
-- Multimodal aspects of LLMs
-- Instruction tuning techniques
+- Multimodal aspects of LLMs: Embodied Agents
+- Posttraining method: Instruction tuning, Agent tunning
 - LLM applications, including:
   - Agent-based systems
   - Tool learning
