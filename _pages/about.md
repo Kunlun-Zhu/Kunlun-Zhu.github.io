@@ -16,18 +16,22 @@ My research journey has been diverse and enriching. I had the opportunity to wor
 
 I'm always eager to expand my research horizons! If you're a master's or undergraduate student seeking research experience, or a PhD student interested in collaboration, I'd be delighted to hear from you. Feel free to reach out to me at <kunlunz2@illinois.edu> to explore potential research opportunities together.
 
-Research
+🎆 **News**
+2025 Sep.  Our Paper about AI scientist safety own officially been accepted at Nature Communications.
+2025 Aug.  Our Paper `SafeScientist' Now been accepted at EMNLP main Conference
+2025 June. Given a Talk at the AMD annual AI conference about OpenManus Agent.
+
+
+Research Interests
 ======
 My research interests are centered around large language models (LLMs) and their applications. I'm particularly fascinated by:
 
-- Posttraining method: Reinforcement Learning, Agent tunning
-- LLM applications, including:
-  - Agent-based systems
-  - Tool learning
+- Post-training for agent: Reinforcement Learning, Agent tuning
+- Agentic System including:
+  - Tool learning and Planning
+  - Embodied Agents
   - Multi-agent systems
-  - Agents for scientific research
-- Retrieval Augmented Generation(RAG) & QA system
-- Multimodal aspects of LLMs: Embodied Agents
+- Agents for scientific research
 
 I'm excited about pushing the boundaries of what's possible with LLMs and exploring how they can be leveraged to solve complex problems across various domains.
 
