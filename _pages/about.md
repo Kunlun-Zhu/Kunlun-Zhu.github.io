@@ -17,9 +17,11 @@ My research journey has been diverse and enriching. I had the opportunity to wor
 I'm always eager to expand my research horizons! If you're a master's or undergraduate student seeking research experience, or a PhD student interested in collaboration, I'd be delighted to hear from you. Feel free to reach out to me at <kunlunz2@illinois.edu> to explore potential research opportunities together.
 
 🎆 **News**
-2025 Sep.  Our Paper about AI scientist safety own officially been accepted at Nature Communications.
-2025 Aug.  Our Paper `SafeScientist' Now been accepted at EMNLP main Conference
-2025 June. Given a Talk at the AMD annual AI conference about OpenManus Agent.
+
+- **Sep 2025** – Our paper on *AI Scientist Safety* has been officially accepted at *Nature Communications*.  
+- **Aug 2025** – Our paper *SafeScientist* has been accepted at the *EMNLP 2025 Main Conference*.  
+- **Jun 2025** – Gave an invited talk on *OpenManus Agent* at the AMD Annual AI Conference.  
+
 
 
 Research Interests
