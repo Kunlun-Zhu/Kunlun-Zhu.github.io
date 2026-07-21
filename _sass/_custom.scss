@@ -141,8 +141,8 @@ $kz-bg-soft:    #f6f8fb;
 .kz-pubs { margin: .6em 0 0; }
 .kz-pub {
   display: grid;
-  grid-template-columns: clamp(300px, 42%, 400px) minmax(0, 1fr);
-  gap: 1.5rem;
+  grid-template-columns: clamp(320px, 44%, 430px) minmax(0, 1fr);
+  gap: 1.6rem;
   align-items: center;
   padding: 1.15rem;
   margin: 0 0 1.15rem;
