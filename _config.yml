@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Kunlun Zhu"
 title_separator          : "-"
 name                     : &name "Kunlun Zhu"
-description              : &description "Interested in helping the world to adapt in the fast-paced world"
+description              : &description "Kunlun Zhu — CS Ph.D. student at UIUC working on Agentic AI and Agents for Science."
 url                      : https://Kunlun-Zhu.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "Kunlun-Zhu.github.io"
@@ -80,9 +80,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Kunlun-Zhu"
+  name             : "Kunlun Zhu"
   avatar           : "profile.png"
-  bio              : "Graduate Student         University of Illinois Urbana-Champaign"
+  bio              : "CS Ph.D. Student, University of Illinois Urbana-Champaign · Agentic AI & Agents for Science"
   location         : "United States of America"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"

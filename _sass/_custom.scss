@@ -1,0 +1,261 @@
+/* ==========================================================================
+   Custom styling for Kunlun Zhu's homepage
+   Scoped under .kz-home so the rest of the theme is untouched.
+   ========================================================================== */
+
+$kz-ink:        #1a2233;   // near-black headings
+$kz-body:       #313a4b;   // body text
+$kz-muted:      #6b7688;   // secondary text
+$kz-accent:     #1f5fb0;   // professional academic blue
+$kz-accent-2:   #0e7c86;   // teal secondary
+$kz-line:       #e7ebf1;   // hairline
+$kz-card:       #ffffff;
+$kz-bg-soft:    #f6f8fb;
+
+/* ---- global type polish on the homepage ------------------------------- */
+.kz-home {
+  font-family: "Inter", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+  color: $kz-body;
+  font-size: 1rem;
+  line-height: 1.72;
+
+  a { color: $kz-accent; text-decoration: none; transition: color .15s ease; }
+  a:hover { color: darken($kz-accent, 12%); text-decoration: underline; text-underline-offset: 2px; }
+
+  p { margin: 0 0 1.05em; }
+  strong, b { color: $kz-ink; font-weight: 650; }
+}
+
+/* ---- intro / bio ------------------------------------------------------ */
+.kz-intro {
+  font-size: 1.06rem;
+  line-height: 1.78;
+  color: $kz-body;
+}
+
+/* ---- section headings ------------------------------------------------- */
+.kz-home .kz-h2 {
+  font-family: "Source Serif 4", Georgia, serif;
+  font-weight: 700;
+  font-size: 1.62rem;
+  line-height: 1.2;
+  color: $kz-ink;
+  margin: 2.4em 0 .9em;
+  padding-bottom: .38em;
+  border-bottom: 2px solid $kz-line;
+  display: flex;
+  align-items: center;
+  gap: .55rem;
+  letter-spacing: -0.01em;
+}
+.kz-home .kz-h2::before {
+  content: "";
+  display: inline-block;
+  width: 6px; height: 1.15em;
+  border-radius: 4px;
+  background: linear-gradient(180deg, $kz-accent, $kz-accent-2);
+  flex: 0 0 auto;
+}
+.kz-home .kz-h2 .kz-emoji { -webkit-text-fill-color: initial; }
+
+/* ---- availability banner --------------------------------------------- */
+.kz-banner {
+  display: flex; gap: .8rem; align-items: flex-start;
+  background: linear-gradient(135deg, #eef4fc 0%, #eafafa 100%);
+  border: 1px solid #d5e4f5;
+  border-left: 4px solid $kz-accent;
+  border-radius: 12px;
+  padding: .95rem 1.15rem;
+  margin: 1.5em 0 .5em;
+  font-size: .98rem;
+  line-height: 1.6;
+}
+.kz-banner .kz-banner-ic { font-size: 1.3rem; line-height: 1.5; }
+.kz-banner b { color: $kz-ink; }
+
+/* ---- news ------------------------------------------------------------- */
+.kz-news {
+  list-style: none;
+  margin: 0; padding: 0;
+  border: 1px solid $kz-line;
+  border-radius: 14px;
+  overflow: hidden;
+  box-shadow: 0 1px 2px rgba(20,30,50,.04);
+}
+.kz-news li {
+  display: flex;
+  gap: 1rem;
+  align-items: baseline;
+  padding: .72rem 1.1rem;
+  margin: 0;
+  border-bottom: 1px solid $kz-line;
+  font-size: .96rem;
+}
+.kz-news li:last-child { border-bottom: 0; }
+.kz-news li:nth-child(odd) { background: $kz-bg-soft; }
+.kz-news .kz-date {
+  flex: 0 0 92px;
+  font-weight: 700;
+  font-size: .74rem;
+  letter-spacing: .04em;
+  text-transform: uppercase;
+  color: $kz-accent;
+  padding-top: .12em;
+}
+.kz-news .kz-what { color: $kz-body; }
+
+/* ---- research interests ---------------------------------------------- */
+.kz-tags { display: flex; flex-wrap: wrap; gap: .55rem; margin: .3em 0 1.2em; }
+.kz-tags span {
+  background: $kz-bg-soft;
+  border: 1px solid $kz-line;
+  color: #33415c;
+  border-radius: 999px;
+  padding: .34rem .85rem;
+  font-size: .86rem;
+  font-weight: 500;
+}
+.kz-focus { list-style: none; margin: 0; padding: 0; }
+.kz-focus li {
+  position: relative;
+  padding: .18em 0 .18em 1.5em;
+  margin: 0;
+}
+.kz-focus li::before {
+  content: "▹";
+  position: absolute; left: 0;
+  color: $kz-accent;
+  font-weight: 700;
+}
+
+/* ---- publications ----------------------------------------------------- */
+.kz-pubs { margin: .6em 0 0; }
+.kz-pub {
+  display: grid;
+  grid-template-columns: clamp(300px, 42%, 400px) minmax(0, 1fr);
+  gap: 1.5rem;
+  align-items: center;
+  padding: 1.15rem;
+  margin: 0 0 1.15rem;
+  background: $kz-card;
+  border: 1px solid $kz-line;
+  border-radius: 14px;
+  box-shadow: 0 1px 2px rgba(20,30,50,.04);
+  transition: box-shadow .18s ease, transform .18s ease, border-color .18s ease;
+}
+.kz-pub:hover {
+  box-shadow: 0 10px 26px rgba(20,40,80,.10);
+  transform: translateY(-2px);
+  border-color: #d3deec;
+}
+.kz-pub-fig {
+  align-self: center;
+  background: #fff;
+  border: 1px solid $kz-line;
+  border-radius: 10px;
+  padding: .5rem;
+  overflow: hidden;
+}
+.kz-pub-fig img {
+  display: block;
+  width: 100%;
+  height: auto;
+  border-radius: 6px;
+}
+.kz-pub-body { min-width: 0; }
+.kz-venue {
+  display: inline-block;
+  font-size: .72rem;
+  font-weight: 700;
+  letter-spacing: .03em;
+  text-transform: uppercase;
+  color: #fff;
+  background: linear-gradient(135deg, $kz-accent, $kz-accent-2);
+  padding: .2rem .6rem;
+  border-radius: 6px;
+  margin-bottom: .5rem;
+}
+.kz-venue.kz-venue-soft {
+  color: $kz-accent;
+  background: #eaf1fb;
+  border: 1px solid #d5e4f5;
+}
+.kz-pub-title {
+  display: block;
+  font-family: "Source Serif 4", Georgia, serif;
+  font-size: 1.14rem;
+  font-weight: 700;
+  line-height: 1.32;
+  color: $kz-ink;
+  margin-bottom: .3rem;
+  letter-spacing: -0.005em;
+}
+.kz-pub-title a { color: $kz-ink; }
+.kz-pub-title a:hover { color: $kz-accent; text-decoration: none; }
+.kz-authors { font-size: .92rem; color: $kz-muted; line-height: 1.55; margin-bottom: .55rem; }
+.kz-authors .me { color: $kz-ink; font-weight: 700; }
+.kz-pub-links { display: flex; flex-wrap: wrap; gap: .45rem; }
+.kz-pub-links a {
+  font-size: .8rem;
+  font-weight: 600;
+  color: $kz-body;
+  background: $kz-bg-soft;
+  border: 1px solid $kz-line;
+  border-radius: 7px;
+  padding: .2rem .6rem;
+}
+.kz-pub-links a:hover { background: $kz-accent; color: #fff; border-color: $kz-accent; text-decoration: none; }
+.kz-cite { font-size: .78rem; font-weight: 600; color: $kz-accent-2; margin-left: .1rem; align-self: center; }
+
+/* ---- compact "other" publications ------------------------------------ */
+.kz-more { list-style: none; margin: .2em 0 0; padding: 0; }
+.kz-more li {
+  padding: .5rem 0;
+  border-bottom: 1px dashed $kz-line;
+  font-size: .93rem;
+  color: $kz-body;
+}
+.kz-more li:last-child { border-bottom: 0; }
+.kz-more .kz-mvenue { font-weight: 700; color: $kz-accent; }
+
+/* ---- alumni ----------------------------------------------------------- */
+.kz-alumni {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(230px, 1fr));
+  gap: .7rem;
+  margin: .4em 0 .6em;
+  padding: 0;
+  list-style: none;
+}
+.kz-alumni li {
+  background: $kz-card;
+  border: 1px solid $kz-line;
+  border-radius: 11px;
+  padding: .7rem .9rem;
+  margin: 0;
+  transition: box-shadow .15s ease, transform .15s ease;
+}
+.kz-alumni li:hover { box-shadow: 0 6px 16px rgba(20,40,80,.08); transform: translateY(-1px); }
+.kz-alumni .kz-name { font-weight: 700; color: $kz-ink; font-size: .98rem; display: block; }
+.kz-alumni .kz-path { font-size: .84rem; color: $kz-muted; display: flex; align-items: center; gap: .3rem; margin-top: .15rem; }
+.kz-alumni .kz-arrow { color: $kz-accent; font-weight: 700; }
+
+/* ---- services --------------------------------------------------------- */
+.kz-svc { list-style: none; margin: 0; padding: 0; }
+.kz-svc li { padding: .2em 0 .2em 1.5em; position: relative; margin: 0; }
+.kz-svc li::before { content: "•"; position: absolute; left: .3em; color: $kz-accent; font-weight: 700; }
+.kz-svc .kz-role { font-weight: 700; color: $kz-ink; }
+
+/* ---- responsive ------------------------------------------------------- */
+@media (max-width: 760px) {
+  .kz-pub {
+    grid-template-columns: 1fr;
+    gap: .9rem;
+  }
+  .kz-pub-fig { max-width: 520px; }
+  .kz-news li { flex-direction: column; gap: .1rem; }
+  .kz-news .kz-date { flex-basis: auto; }
+}
+
+/* sidebar author name/bio a touch nicer */
+.author__name { font-family: "Source Serif 4", Georgia, serif; }
