@@ -46,7 +46,7 @@ Mellon University's Robotics Institute with
   <li><span class="kz-date">May 2026</span><span class="kz-what"><b>ProtocolBench</b> (<i>Which LLM Multi-Agent Protocol to Choose?</i>) was accepted at <b>ICML 2026</b>.</span></li>
   <li><span class="kz-date">Feb 2026</span><span class="kz-what"><b>SWE-Bench Mobile</b> was accepted at <b>KDD 2026</b>.</span></li>
   <li><span class="kz-date">Sep 2025</span><span class="kz-what">Our paper on <i>AI Scientist Safety</i> was officially published in <b>Nature Communications</b>.</span></li>
-  <li><span class="kz-date">Aug 2025</span><span class="kz-what"><b>SafeScientist</b> was accepted at the <b>EMNLP 2025</b> Main Conference (Oral).</span></li>
+  <li><span class="kz-date">Aug 2025</span><span class="kz-what"><b>SafeScientist</b> was accepted at the <b>EMNLP 2025</b> Main Conference.</span></li>
   <li><span class="kz-date">Jun 2025</span><span class="kz-what">Gave an invited talk on the <b>OpenManus</b> agent at the <b>AMD Advancing AI 2025</b> conference.</span></li>
 </ul>
 
@@ -87,7 +87,7 @@ A full list is on my <a href="https://scholar.google.com/citations?user=A5L7wZAA
   <div class="kz-pub">
     <div class="kz-pub-fig"><a href="https://arxiv.org/abs/2505.23559"><img src="/images/publications/safescientist.png" alt="SafeScientist framework"></a></div>
     <div class="kz-pub-body">
-      <span class="kz-venue">EMNLP 2025 Main · Oral</span>
+      <span class="kz-venue">EMNLP 2025 Main</span>
       <span class="kz-pub-title"><a href="https://arxiv.org/abs/2505.23559">SafeScientist: Toward Risk-Aware Scientific Discoveries by LLM Agents</a></span>
       <div class="kz-authors"><span class="me">K. Zhu</span>, J. Zhang, Z. Qi, N. Shang, Z. Liu, P. Han, Y. Su, H. Yu, J. You</div>
       <div class="kz-pub-links"><a href="https://arxiv.org/abs/2505.23559">arXiv</a></div>
