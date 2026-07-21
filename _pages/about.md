@@ -72,9 +72,17 @@ scientific discovery. My current focus areas:</p>
 A full list is on my <a href="https://scholar.google.com/citations?user=A5L7wZAAAAAJ&hl=en">Google Scholar</a>.
 </p>
 
+<div class="kz-filter" id="kz-filter">
+  <button class="kz-fbtn is-active" data-filter="all">All <span class="kz-count">17</span></button>
+  <button class="kz-fbtn" data-filter="agent">LLM Agent <span class="kz-count">7</span></button>
+  <button class="kz-fbtn" data-filter="mas">LLM Multi-Agent System <span class="kz-count">5</span></button>
+  <button class="kz-fbtn" data-filter="llm">LLM <span class="kz-count">5</span></button>
+  <button class="kz-fbtn" data-filter="ai4s">AI4S <span class="kz-count">4</span></button>
+</div>
+
 <div class="kz-pubs">
 
-  <div class="kz-pub">
+  <div class="kz-pub" data-cat="agent">
     <div class="kz-pub-fig"><a href="https://arxiv.org/abs/2509.25370"><img src="/images/publications/agentdebug.png" alt="AgentDebug pipeline"></a></div>
     <div class="kz-pub-body">
       <span class="kz-venue kz-venue-soft">Preprint · 2025 · 90+ citations</span>
@@ -84,7 +92,7 @@ A full list is on my <a href="https://scholar.google.com/citations?user=A5L7wZAA
     </div>
   </div>
 
-  <div class="kz-pub">
+  <div class="kz-pub" data-cat="ai4s agent">
     <div class="kz-pub-fig"><a href="https://arxiv.org/abs/2505.23559"><img src="/images/publications/safescientist.png" alt="SafeScientist framework"></a></div>
     <div class="kz-pub-body">
       <span class="kz-venue">EMNLP 2025 Main</span>
@@ -94,7 +102,7 @@ A full list is on my <a href="https://scholar.google.com/citations?user=A5L7wZAA
     </div>
   </div>
 
-  <div class="kz-pub">
+  <div class="kz-pub" data-cat="mas">
     <div class="kz-pub-fig"><a href="https://arxiv.org/abs/2510.17149"><img src="/images/publications/protocolbench.png" alt="ProtocolBench and ProtocolRouter"></a></div>
     <div class="kz-pub-body">
       <span class="kz-venue">ICML 2026</span>
@@ -104,7 +112,7 @@ A full list is on my <a href="https://scholar.google.com/citations?user=A5L7wZAA
     </div>
   </div>
 
-  <div class="kz-pub">
+  <div class="kz-pub" data-cat="agent">
     <div class="kz-pub-fig"><a href="https://arxiv.org/abs/2602.09540"><img src="/images/publications/swebench-mobile.png" alt="SWE-Bench Mobile pipeline"></a></div>
     <div class="kz-pub-body">
       <span class="kz-venue">KDD 2026</span>
@@ -114,7 +122,7 @@ A full list is on my <a href="https://scholar.google.com/citations?user=A5L7wZAA
     </div>
   </div>
 
-  <div class="kz-pub">
+  <div class="kz-pub" data-cat="mas">
     <div class="kz-pub-fig"><a href="https://arxiv.org/abs/2503.01935"><img src="/images/publications/multiagentbench.png" alt="MultiAgentBench / MARBLE"></a></div>
     <div class="kz-pub-body">
       <span class="kz-venue">ACL 2025 Main · 220+ citations</span>
@@ -124,7 +132,7 @@ A full list is on my <a href="https://scholar.google.com/citations?user=A5L7wZAA
     </div>
   </div>
 
-  <div class="kz-pub">
+  <div class="kz-pub" data-cat="ai4s agent">
     <div class="kz-pub-fig"><a href="https://arxiv.org/abs/2510.06579"><img src="/images/publications/tinyscientist.png" alt="TinyScientist framework"></a></div>
     <div class="kz-pub-body">
       <span class="kz-venue">EMNLP 2025 Demo</span>
@@ -134,7 +142,7 @@ A full list is on my <a href="https://scholar.google.com/citations?user=A5L7wZAA
     </div>
   </div>
 
-  <div class="kz-pub">
+  <div class="kz-pub" data-cat="agent mas">
     <div class="kz-pub-fig"><a href="https://arxiv.org/abs/2504.01990"><img src="/images/publications/foundation-agents.png" alt="Foundation Agents framework"></a></div>
     <div class="kz-pub-body">
       <span class="kz-venue kz-venue-soft">Preprint · 2025 · 250+ citations</span>
@@ -144,7 +152,7 @@ A full list is on my <a href="https://scholar.google.com/citations?user=A5L7wZAA
     </div>
   </div>
 
-  <div class="kz-pub">
+  <div class="kz-pub" data-cat="ai4s mas">
     <div class="kz-pub-fig"><a href="https://arxiv.org/abs/2412.17767"><img src="/images/publications/researchtown.png" alt="ResearchTown community graph"></a></div>
     <div class="kz-pub-body">
       <span class="kz-venue">ICML 2025</span>
@@ -154,7 +162,7 @@ A full list is on my <a href="https://scholar.google.com/citations?user=A5L7wZAA
     </div>
   </div>
 
-  <div class="kz-pub">
+  <div class="kz-pub" data-cat="llm">
     <div class="kz-pub-fig"><a href="https://arxiv.org/abs/2408.01262"><img src="/images/publications/rageval.png" alt="RAGEval generation pipeline"></a></div>
     <div class="kz-pub-body">
       <span class="kz-venue">ACL 2025 Main</span>
@@ -164,7 +172,7 @@ A full list is on my <a href="https://scholar.google.com/citations?user=A5L7wZAA
     </div>
   </div>
 
-  <div class="kz-pub">
+  <div class="kz-pub" data-cat="ai4s">
     <div class="kz-pub-fig"><a href="https://arxiv.org/abs/2402.04247"><img src="/images/publications/sciagent-safety.png" alt="Risk taxonomy of LLM agents for science"></a></div>
     <div class="kz-pub-body">
       <span class="kz-venue">Nature Communications 2024 · 140+ citations</span>
@@ -174,7 +182,7 @@ A full list is on my <a href="https://scholar.google.com/citations?user=A5L7wZAA
     </div>
   </div>
 
-  <div class="kz-pub">
+  <div class="kz-pub" data-cat="mas">
     <div class="kz-pub-fig"><a href="https://arxiv.org/abs/2406.07155"><img src="/images/publications/macnet.png" alt="MacNet multi-agent network"></a></div>
     <div class="kz-pub-body">
       <span class="kz-venue">ICLR 2025 · 350+ citations</span>
@@ -184,7 +192,7 @@ A full list is on my <a href="https://scholar.google.com/citations?user=A5L7wZAA
     </div>
   </div>
 
-  <div class="kz-pub">
+  <div class="kz-pub" data-cat="llm">
     <div class="kz-pub-fig"><a href="https://arxiv.org/abs/2405.10313"><img src="/images/publications/agi-survey.png" alt="How Far Are We From AGI"></a></div>
     <div class="kz-pub-body">
       <span class="kz-venue">TMLR 2024 · Survey</span>
@@ -194,7 +202,7 @@ A full list is on my <a href="https://scholar.google.com/citations?user=A5L7wZAA
     </div>
   </div>
 
-  <div class="kz-pub">
+  <div class="kz-pub" data-cat="agent">
     <div class="kz-pub-fig"><a href="https://arxiv.org/abs/2307.16789"><img src="/images/publications/toolllm.png" alt="ToolLLM / ToolBench construction pipeline"></a></div>
     <div class="kz-pub-body">
       <span class="kz-venue">ICLR 2024 Spotlight · 2200+ citations</span>
@@ -204,7 +212,7 @@ A full list is on my <a href="https://scholar.google.com/citations?user=A5L7wZAA
     </div>
   </div>
 
-  <div class="kz-pub">
+  <div class="kz-pub" data-cat="llm">
     <div class="kz-pub-fig"><a href="https://arxiv.org/abs/2305.06849"><img src="/images/publications/webcpm.png" alt="WebCPM interactive web search"></a></div>
     <div class="kz-pub-body">
       <span class="kz-venue">ACL 2023 Main · 120+ citations</span>
@@ -214,7 +222,7 @@ A full list is on my <a href="https://scholar.google.com/citations?user=A5L7wZAA
     </div>
   </div>
 
-  <div class="kz-pub">
+  <div class="kz-pub" data-cat="llm">
     <div class="kz-pub-fig"><a href="https://arxiv.org/abs/2307.15504"><img src="/images/publications/format-consistency.png" alt="Unified Instruction Format Transfer"></a></div>
     <div class="kz-pub-body">
       <span class="kz-venue">TMLR 2024</span>
@@ -224,7 +232,7 @@ A full list is on my <a href="https://scholar.google.com/citations?user=A5L7wZAA
     </div>
   </div>
 
-  <div class="kz-pub">
+  <div class="kz-pub" data-cat="agent">
     <div class="kz-pub-fig"><a href="https://arxiv.org/abs/2304.08354"><img src="/images/publications/tool-learning.png" alt="Tool Learning with Foundation Models"></a></div>
     <div class="kz-pub-body">
       <span class="kz-venue">ACM Computing Surveys 2024 · 700+ citations</span>
@@ -234,7 +242,7 @@ A full list is on my <a href="https://scholar.google.com/citations?user=A5L7wZAA
     </div>
   </div>
 
-  <div class="kz-pub">
+  <div class="kz-pub" data-cat="llm">
     <div class="kz-pub-fig"><a href="https://arxiv.org/abs/2309.10326"><img src="/images/publications/qasnowball.png" alt="QASnowball iterative bootstrapping"></a></div>
     <div class="kz-pub-body">
       <span class="kz-venue kz-venue-soft">Preprint · 2023</span>
@@ -279,4 +287,24 @@ A full list is on my <a href="https://scholar.google.com/citations?user=A5L7wZAA
   <li><span class="kz-role">Community</span> — Founding organizer of the "Foundation Agents" organization; member of OpenBMB.</li>
 </ul>
 
+
+<script id="kz-filter-js">
+(function () {
+  var bar = document.getElementById('kz-filter');
+  if (!bar) return;
+  var cards = Array.prototype.slice.call(document.querySelectorAll('.kz-pub'));
+  bar.addEventListener('click', function (e) {
+    var btn = e.target.closest('.kz-fbtn');
+    if (!btn) return;
+    var f = btn.getAttribute('data-filter');
+    bar.querySelectorAll('.kz-fbtn').forEach(function (b) {
+      b.classList.toggle('is-active', b === btn);
+    });
+    cards.forEach(function (card) {
+      var cats = (card.getAttribute('data-cat') || '').split(/\s+/);
+      card.hidden = !(f === 'all' || cats.indexOf(f) !== -1);
+    });
+  });
+})();
+</script>
 </div>

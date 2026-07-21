@@ -137,8 +137,39 @@ $kz-bg-soft:    #f6f8fb;
   font-weight: 700;
 }
 
+/* ---- publication filter ---------------------------------------------- */
+.kz-filter {
+  display: flex;
+  flex-wrap: wrap;
+  gap: .5rem;
+  margin: .5em 0 1.4em;
+}
+.kz-fbtn {
+  font-family: "Inter", sans-serif;
+  font-size: .86rem;
+  font-weight: 600;
+  color: $kz-muted;
+  background: #fff;
+  border: 1px solid $kz-line;
+  border-radius: 999px;
+  padding: .42rem 1rem;
+  cursor: pointer;
+  line-height: 1.1;
+  transition: color .15s ease, background .15s ease, border-color .15s ease, box-shadow .15s ease;
+}
+.kz-fbtn .kz-count { color: #9aa6b6; font-weight: 600; margin-left: .3em; font-size: .82em; }
+.kz-fbtn:hover { border-color: $kz-accent; color: $kz-accent; }
+.kz-fbtn.is-active {
+  background: linear-gradient(135deg, $kz-accent, $kz-accent-2);
+  border-color: transparent;
+  color: #fff;
+  box-shadow: 0 3px 10px rgba(31,95,176,.25);
+}
+.kz-fbtn.is-active .kz-count { color: rgba(255,255,255,.78); }
+
 /* ---- publications ----------------------------------------------------- */
 .kz-pubs { margin: .6em 0 0; }
+.kz-pub[hidden] { display: none; }
 .kz-pub {
   display: grid;
   grid-template-columns: clamp(320px, 44%, 430px) minmax(0, 1fr);
