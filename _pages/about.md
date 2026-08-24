@@ -74,11 +74,11 @@ A full list is on my <a href="https://scholar.google.com/citations?user=A5L7wZAA
 </p>
 
 <div class="kz-filter" id="kz-filter">
-  <button class="kz-fbtn is-active" data-filter="all">All <span class="kz-count">19</span></button>
-  <button class="kz-fbtn" data-filter="agent">LLM Agent <span class="kz-count">9</span></button>
-  <button class="kz-fbtn" data-filter="mas">LLM Multi-Agent System <span class="kz-count">5</span></button>
-  <button class="kz-fbtn" data-filter="llm">LLM <span class="kz-count">5</span></button>
-  <button class="kz-fbtn" data-filter="ai4s">AI4S <span class="kz-count">4</span></button>
+  <button class="kz-fbtn is-active" data-filter="all">All <span class="kz-count">25</span></button>
+  <button class="kz-fbtn" data-filter="agent">LLM Agent <span class="kz-count">12</span></button>
+  <button class="kz-fbtn" data-filter="mas">LLM Multi-Agent System <span class="kz-count">6</span></button>
+  <button class="kz-fbtn" data-filter="llm">LLM <span class="kz-count">7</span></button>
+  <button class="kz-fbtn" data-filter="ai4s">AI4S <span class="kz-count">7</span></button>
 </div>
 
 <div class="kz-pubs">
@@ -213,6 +213,66 @@ A full list is on my <a href="https://scholar.google.com/citations?user=A5L7wZAA
     </div>
   </div>
 
+  <div class="kz-pub" data-cat="ai4s agent">
+    <div class="kz-pub-fig"><a href="https://arxiv.org/abs/2608.11341"><img src="/images/publications/apodex.png" alt="Apodex Discovery"></a></div>
+    <div class="kz-pub-body">
+      <span class="kz-venue kz-venue-soft">Preprint · 2026</span>
+      <span class="kz-pub-title"><a href="https://arxiv.org/abs/2608.11341">Apodex Discovery: Reality Benchmarks and Environments for Evaluating and Building Discoverative AI</a></span>
+      <div class="kz-authors">B. Wang, B. Feng, X. Pan, C. An, F. Liu, T. Fang, G. Sun, L. Shen, N. Wang, ..., <span class="me">K. Zhu</span>, et al.</div>
+      <div class="kz-pub-links"><a href="https://arxiv.org/abs/2608.11341">arXiv</a></div>
+    </div>
+  </div>
+
+  <div class="kz-pub" data-cat="llm">
+    <div class="kz-pub-fig"><a href="https://arxiv.org/abs/2608.06867"><img src="/images/publications/llmrouter.png" alt="LLMRouter unified formulation"></a></div>
+    <div class="kz-pub-body">
+      <span class="kz-venue kz-venue-soft">Preprint · 2026</span>
+      <span class="kz-pub-title"><a href="https://arxiv.org/abs/2608.06867">LLMRouter: Unified Infrastructure for Developing, Evaluating, and Deploying LLM Routers</a></span>
+      <div class="kz-authors">T. Feng, F. Yu, H. Zhang, Z. Dai, L. Yuan, Z. Lei, W. Zhang, <span class="me">K. Zhu</span>, H. Yue, et al.</div>
+      <div class="kz-pub-links"><a href="https://arxiv.org/abs/2608.06867">arXiv</a></div>
+    </div>
+  </div>
+
+  <div class="kz-pub" data-cat="ai4s agent">
+    <div class="kz-pub-fig"><a href="https://www.biorxiv.org/content/10.64898/2026.02.27.708412v1"><img src="/images/publications/eubiota.png" alt="Eubiota agentic workflow"></a></div>
+    <div class="kz-pub-body">
+      <span class="kz-venue kz-venue-soft">bioRxiv · 2026</span>
+      <span class="kz-pub-title"><a href="https://www.biorxiv.org/content/10.64898/2026.02.27.708412v1">Eubiota: Modular Agentic AI for Autonomous Discovery in the Gut Microbiome</a></span>
+      <div class="kz-authors">P. Lu, Y. Gao, W. G. Peng, H. Zhang, <span class="me">K. Zhu</span>, E. K. Robinson, Q. Xu, M. Kotaka, et al.</div>
+      <div class="kz-pub-links"><a href="https://www.biorxiv.org/content/10.64898/2026.02.27.708412v1">bioRxiv</a> <a href="https://github.com/lupantech/Eubiota">Code</a></div>
+    </div>
+  </div>
+
+  <div class="kz-pub" data-cat="ai4s mas">
+    <div class="kz-pub-fig"><a href="https://arxiv.org/abs/2606.20997"><img src="/images/publications/bioinsight.png" alt="BioInsight multi-agent harness"></a></div>
+    <div class="kz-pub-body">
+      <span class="kz-venue kz-venue-soft">Preprint · 2026</span>
+      <span class="kz-pub-title"><a href="https://arxiv.org/abs/2606.20997">BioInsight: Multi-Agent Orchestration for Interactive Biomedical Knowledge Discovery</a></span>
+      <div class="kz-authors">J. Wang, B. Li, N. Jiang, D. Meng, Z. Fan, Y. Guo, J. Liu, <span class="me">K. Zhu</span>, E. Yang, et al.</div>
+      <div class="kz-pub-links"><a href="https://arxiv.org/abs/2606.20997">arXiv</a></div>
+    </div>
+  </div>
+
+  <div class="kz-pub" data-cat="llm">
+    <div class="kz-pub-fig"><a href="https://arxiv.org/abs/2605.26396"><img src="/images/publications/physical.png" alt="Creative physical intelligence"></a></div>
+    <div class="kz-pub-body">
+      <span class="kz-venue kz-venue-soft">Preprint · 2026</span>
+      <span class="kz-pub-title"><a href="https://arxiv.org/abs/2605.26396">Advancing Creative Physical Intelligence in Large Multimodal Models</a></span>
+      <div class="kz-authors">C. Qian, H. Ha, J. Liu, J. Kim, E. C. Acikgoz, B. Li, <span class="me">K. Zhu</span>, J. Liu, A. Tiwari, et al.</div>
+      <div class="kz-pub-links"><a href="https://arxiv.org/abs/2605.26396">arXiv</a></div>
+    </div>
+  </div>
+
+  <div class="kz-pub" data-cat="agent">
+    <div class="kz-pub-fig"><a href="https://arxiv.org/abs/2605.02729"><img src="/images/publications/usability.png" alt="Usability heuristics for computer-use agents"></a></div>
+    <div class="kz-pub-body">
+      <span class="kz-venue kz-venue-soft">Preprint · 2026</span>
+      <span class="kz-pub-title"><a href="https://arxiv.org/abs/2605.02729">Augmenting Interface Usability Heuristics for Reliable Computer-Use Agents</a></span>
+      <div class="kz-authors">J. Liu, R. Wang, B. Li, <span class="me">K. Zhu</span>, Y. Shen, Q. Wang, A. Abbasi, D. Zhang, H. Ji</div>
+      <div class="kz-pub-links"><a href="https://arxiv.org/abs/2605.02729">arXiv</a></div>
+    </div>
+  </div>
+
   <div class="kz-pub" data-cat="llm">
     <div class="kz-pub-fig"><a href="https://arxiv.org/abs/2405.10313"><img src="/images/publications/agi-survey.png" alt="How Far Are We From AGI"></a></div>
     <div class="kz-pub-body">
@@ -275,18 +335,6 @@ A full list is on my <a href="https://scholar.google.com/citations?user=A5L7wZAA
 
 </div>
 
-<h2 class="kz-h2"><span class="kz-emoji">🧪</span> Other Recent Work</h2>
-
-<ul class="kz-more">
-  <li><span class="kz-mvenue">Preprint 2026</span> — <a href="https://arxiv.org/abs/2608.11341">Apodex Discovery</a>: Reality Benchmarks and Environments for Evaluating and Building Discoverative AI.</li>
-  <li><span class="kz-mvenue">Preprint 2026</span> — <a href="https://arxiv.org/abs/2608.06867">LLMRouter</a>: Unified Infrastructure for Developing, Evaluating, and Deploying LLM Routers.</li>
-  <li><span class="kz-mvenue">bioRxiv 2026</span> — Eubiota: Modular Agentic AI for Autonomous Discovery in the Gut Microbiome. <i>P. Lu, Y. Gao, ..., <span class="me" style="font-weight:700;color:#1a2233;">K. Zhu</span>, et al.</i></li>
-  <li><span class="kz-mvenue">Preprint 2026</span> — BioInsight: Multi-Agent Orchestration for Interactive Biomedical Knowledge Discovery.</li>
-  <li><span class="kz-mvenue">Preprint 2026</span> — Advancing Creative Physical Intelligence in Large Multimodal Models.</li>
-  <li><span class="kz-mvenue">Preprint 2026</span> — Augmenting Interface Usability Heuristics for Reliable Computer-Use Agents.</li>
-  <li><span class="kz-mvenue">Open Source</span> — <a href="https://github.com/FoundationAgents/OpenManus">OpenManus</a> &amp; OpenManus-RL: an open-source framework for building general AI agents (50k+ ★).</li>
-</ul>
-
 <h2 class="kz-h2"><span class="kz-emoji">🌱</span> Internship Alumni</h2>
 
 <p>I've had the privilege of mentoring these talented students during their research internships:</p>
@@ -307,6 +355,7 @@ A full list is on my <a href="https://scholar.google.com/citations?user=A5L7wZAA
   <li><span class="kz-role">Reviewer</span> — ICML 2025, ICLR 2024/2025, NeurIPS 2024/2025, ACL ARR 2024, and associated workshops.</li>
   <li><span class="kz-role">Invited Speaker</span> — AMD Advancing AI 2025, "Developing AI Agents with AMD GPUs"; Alibaba Yunxi Agent Workshop 2024 ("XAgent").</li>
   <li><span class="kz-role">Teaching Assistant</span> — CS107 Data Science Discovery, UIUC (Fall 2024, Spring 2025, Fall 2025).</li>
+  <li><span class="kz-role">Open Source</span> — <a href="https://github.com/FoundationAgents/OpenManus">OpenManus</a> &amp; OpenManus-RL (50k+ ★) and <a href="https://github.com/OpenBMB/XAgent">XAgent</a> — open frameworks for building general AI agents.</li>
   <li><span class="kz-role">Community</span> — Founding organizer of the "Foundation Agents" organization; member of OpenBMB.</li>
 </ul>
 
