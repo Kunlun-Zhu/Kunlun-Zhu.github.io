@@ -42,6 +42,7 @@ Mellon University's Robotics Institute with
 <h2 class="kz-h2"><span class="kz-emoji">🎆</span> News</h2>
 
 <ul class="kz-news">
+  <li><span class="kz-date">Aug 2026</span><span class="kz-what"><b>CUADebug</b> was accepted at <b>EMNLP 2026 Findings</b>, and <b>AgentDebugX</b> at <b>EMNLP 2026</b> (System Demonstration).</span></li>
   <li><span class="kz-date">Jul 2026</span><span class="kz-what">Started as a Research Intern at <b>Apodex AI</b>, working on Agentic AI and Agents for Science.</span></li>
   <li><span class="kz-date">May 2026</span><span class="kz-what"><b>ProtocolBench</b> (<i>Which LLM Multi-Agent Protocol to Choose?</i>) was accepted at <b>ICML 2026</b>.</span></li>
   <li><span class="kz-date">Feb 2026</span><span class="kz-what"><b>SWE-Bench Mobile</b> was accepted at <b>KDD 2026</b>.</span></li>
@@ -73,8 +74,8 @@ A full list is on my <a href="https://scholar.google.com/citations?user=A5L7wZAA
 </p>
 
 <div class="kz-filter" id="kz-filter">
-  <button class="kz-fbtn is-active" data-filter="all">All <span class="kz-count">17</span></button>
-  <button class="kz-fbtn" data-filter="agent">LLM Agent <span class="kz-count">7</span></button>
+  <button class="kz-fbtn is-active" data-filter="all">All <span class="kz-count">19</span></button>
+  <button class="kz-fbtn" data-filter="agent">LLM Agent <span class="kz-count">9</span></button>
   <button class="kz-fbtn" data-filter="mas">LLM Multi-Agent System <span class="kz-count">5</span></button>
   <button class="kz-fbtn" data-filter="llm">LLM <span class="kz-count">5</span></button>
   <button class="kz-fbtn" data-filter="ai4s">AI4S <span class="kz-count">4</span></button>
@@ -89,6 +90,26 @@ A full list is on my <a href="https://scholar.google.com/citations?user=A5L7wZAA
       <span class="kz-pub-title"><a href="https://arxiv.org/abs/2509.25370">AgentDebug: Where LLM Agents Fail and How They Can Learn From Failures</a></span>
       <div class="kz-authors"><span class="me">K. Zhu</span>, Z. Liu, B. Li, M. Tian, Y. Yang, J. Zhang, P. Han, Q. Xie, F. Cui, W. Zhang, X. Ma, X. Yu, G. Ramesh, Y. Su, J. Wu, Z. Liu, P. Lu, J. Zou, J. You</div>
       <div class="kz-pub-links"><a href="https://arxiv.org/abs/2509.25370">arXiv</a></div>
+    </div>
+  </div>
+
+  <div class="kz-pub" data-cat="agent">
+    <div class="kz-pub-fig"><a href="https://arxiv.org/abs/2607.18754"><img src="/images/publications/agentdebugx.png" alt="AgentDebugX toolkit"></a></div>
+    <div class="kz-pub-body">
+      <span class="kz-venue">EMNLP 2026 · System Demo</span>
+      <span class="kz-pub-title"><a href="https://arxiv.org/abs/2607.18754">AgentDebugX: An Open-Source Toolkit for Failure Observability, Attribution, and Recovery in LLM Agents</a></span>
+      <div class="kz-authors"><span class="me">K. Zhu</span>, X. Ye, Z. Han, Y. Zhao, B. Li, W. Zhang, M. Tian, X. Tang, P. Lu, J. Zou, J. You, H. Ji</div>
+      <div class="kz-pub-links"><a href="https://arxiv.org/abs/2607.18754">arXiv</a> <a href="https://github.com/ulab-uiuc/AgentDebug">Code</a></div>
+    </div>
+  </div>
+
+  <div class="kz-pub" data-cat="agent">
+    <div class="kz-pub-fig"><a href="https://arxiv.org/abs/2608.02643"><img src="/images/publications/cuadebug.png" alt="CUADebug pipeline"></a></div>
+    <div class="kz-pub-body">
+      <span class="kz-venue">EMNLP 2026 Findings</span>
+      <span class="kz-pub-title"><a href="https://arxiv.org/abs/2608.02643">CUADebug: Diagnosing and Repairing Computer-Use Agent Failures</a></span>
+      <div class="kz-authors">W. Zhang, <span class="me">K. Zhu</span>, Z. Liu, Y. Chen, T. Ma, J. Liu, J. Zhang, B. Li, X. Tang, H. Ji, et al.</div>
+      <div class="kz-pub-links"><a href="https://arxiv.org/abs/2608.02643">arXiv</a></div>
     </div>
   </div>
 
@@ -257,6 +278,8 @@ A full list is on my <a href="https://scholar.google.com/citations?user=A5L7wZAA
 <h2 class="kz-h2"><span class="kz-emoji">🧪</span> Other Recent Work</h2>
 
 <ul class="kz-more">
+  <li><span class="kz-mvenue">Preprint 2026</span> — <a href="https://arxiv.org/abs/2608.11341">Apodex Discovery</a>: Reality Benchmarks and Environments for Evaluating and Building Discoverative AI.</li>
+  <li><span class="kz-mvenue">Preprint 2026</span> — <a href="https://arxiv.org/abs/2608.06867">LLMRouter</a>: Unified Infrastructure for Developing, Evaluating, and Deploying LLM Routers.</li>
   <li><span class="kz-mvenue">bioRxiv 2026</span> — Eubiota: Modular Agentic AI for Autonomous Discovery in the Gut Microbiome. <i>P. Lu, Y. Gao, ..., <span class="me" style="font-weight:700;color:#1a2233;">K. Zhu</span>, et al.</i></li>
   <li><span class="kz-mvenue">Preprint 2026</span> — BioInsight: Multi-Agent Orchestration for Interactive Biomedical Knowledge Discovery.</li>
   <li><span class="kz-mvenue">Preprint 2026</span> — Advancing Creative Physical Intelligence in Large Multimodal Models.</li>
