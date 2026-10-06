@@ -389,11 +389,11 @@ A full list is on my <a href="https://scholar.google.com/citations?user=A5L7wZAA
 <h2 class="kz-h2"><span class="kz-emoji">🛠️</span> Services &amp; Talks</h2>
 
 <ul class="kz-svc">
-  <li><span class="kz-role">Reviewer</span> — ICML 2025, ICLR 2024/2025, NeurIPS 2024/2025, ACL ARR 2024, and associated workshops.</li>
+  <li><span class="kz-role">Reviewer</span> — Nature Communications, ICML 2025, ICLR 2024/2025, NeurIPS 2024/2025, ACL ARR 2024, and associated workshops.</li>
   <li><span class="kz-role">Invited Speaker</span> — AMD Advancing AI 2025, "Developing AI Agents with AMD GPUs"; Alibaba Yunxi Agent Workshop 2024 ("XAgent").</li>
   <li><span class="kz-role">Teaching Assistant</span> — CS107 Data Science Discovery, UIUC (Fall 2024, Spring 2025, Fall 2025).</li>
-  <li><span class="kz-role">Open Source</span> — <a href="https://github.com/FoundationAgents/OpenManus">OpenManus</a> &amp; OpenManus-RL (50k+ ★) and <a href="https://github.com/OpenBMB/XAgent">XAgent</a> — open frameworks for building general AI agents.</li>
-  <li><span class="kz-role">Community</span> — Founding organizer of the "Foundation Agents" organization; member of OpenBMB.</li>
+  <li><span class="kz-role">Open Source</span> — <a href="https://github.com/ulab-uiuc/AgentDebug">AgentDebugX</a>, <a href="https://github.com/FoundationAgents/OpenManus">OpenManus</a> &amp; OpenManus-RL (50k+ ★), and <a href="https://github.com/OpenBMB/XAgent">XAgent</a> — open frameworks and tools for building, analyzing, and debugging general AI agents.</li>
+  <li><span class="kz-role">Community</span> — Founder of the AgentDebugX community; member of OpenBMB.</li>
 </ul>
 
 
