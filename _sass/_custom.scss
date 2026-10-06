@@ -72,6 +72,12 @@ $kz-bg-soft:    #f6f8fb;
 }
 .kz-banner .kz-banner-ic { font-size: 1.3rem; line-height: 1.5; }
 .kz-banner b { color: $kz-ink; }
+.kz-travel-banner {
+  background: linear-gradient(135deg, #fff8eb 0%, #f4f8ff 100%);
+  border-color: #eadfc8;
+  border-left-color: #c98224;
+  margin-top: .8em;
+}
 
 /* ---- news ------------------------------------------------------------- */
 .kz-news {
@@ -79,9 +85,18 @@ $kz-bg-soft:    #f6f8fb;
   margin: 0; padding: 0;
   border: 1px solid $kz-line;
   border-radius: 14px;
-  overflow: hidden;
+  max-height: 22rem;
+  overflow-x: hidden;
+  overflow-y: auto;
+  overscroll-behavior: contain;
+  scrollbar-gutter: stable;
+  scrollbar-width: thin;
+  scrollbar-color: #b5c4d8 transparent;
   box-shadow: 0 1px 2px rgba(20,30,50,.04);
 }
+.kz-news::-webkit-scrollbar { width: 8px; }
+.kz-news::-webkit-scrollbar-track { background: transparent; }
+.kz-news::-webkit-scrollbar-thumb { background: #b5c4d8; border-radius: 999px; }
 .kz-news li {
   display: flex;
   gap: 1rem;
@@ -213,6 +228,35 @@ $kz-bg-soft:    #f6f8fb;
   border-radius: 6px;
   transition: transform .28s ease;
 }
+.kz-pub-mark {
+  min-height: 170px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: .5rem;
+  color: #fff;
+  text-align: center;
+  border: 0;
+}
+.kz-pub-mark span {
+  font-family: "Source Serif 4", Georgia, serif;
+  font-size: clamp(1.8rem, 4vw, 2.7rem);
+  font-weight: 800;
+  letter-spacing: .07em;
+  line-height: 1;
+}
+.kz-pub-mark small {
+  max-width: 82%;
+  color: rgba(255,255,255,.86);
+  font-size: .78rem;
+  font-weight: 600;
+  letter-spacing: .04em;
+  text-transform: uppercase;
+}
+.kz-pub-mark-aed { background: linear-gradient(135deg, #17365f, #25718b); }
+.kz-pub-mark-meta { background: linear-gradient(135deg, #4b2b73, #276ba1); }
+.kz-pub-mark-relic { background: linear-gradient(135deg, #4c3228, #a05d35); }
 .kz-pub:hover .kz-pub-fig img { transform: scale(1.035); }
 .kz-pub-body { min-width: 0; }
 .kz-venue {
