@@ -228,35 +228,6 @@ $kz-bg-soft:    #f6f8fb;
   border-radius: 6px;
   transition: transform .28s ease;
 }
-.kz-pub-mark {
-  min-height: 170px;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  gap: .5rem;
-  color: #fff;
-  text-align: center;
-  border: 0;
-}
-.kz-pub-mark span {
-  font-family: "Source Serif 4", Georgia, serif;
-  font-size: clamp(1.8rem, 4vw, 2.7rem);
-  font-weight: 800;
-  letter-spacing: .07em;
-  line-height: 1;
-}
-.kz-pub-mark small {
-  max-width: 82%;
-  color: rgba(255,255,255,.86);
-  font-size: .78rem;
-  font-weight: 600;
-  letter-spacing: .04em;
-  text-transform: uppercase;
-}
-.kz-pub-mark-aed { background: linear-gradient(135deg, #17365f, #25718b); }
-.kz-pub-mark-meta { background: linear-gradient(135deg, #4b2b73, #276ba1); }
-.kz-pub-mark-relic { background: linear-gradient(135deg, #4c3228, #a05d35); }
 .kz-pub:hover .kz-pub-fig img { transform: scale(1.035); }
 .kz-pub-body { min-width: 0; }
 .kz-venue {

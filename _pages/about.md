@@ -101,7 +101,7 @@ A full list is on my <a href="https://scholar.google.com/citations?user=A5L7wZAA
   </div>
 
   <div class="kz-pub" data-cat="agent">
-    <div class="kz-pub-fig kz-pub-mark kz-pub-mark-aed" role="img" aria-label="Agent Error Dataset"><span>AED</span><small>50,000+ Error–Diagnosis Pairs</small></div>
+    <div class="kz-pub-fig"><a href="https://arxiv.org/abs/2609.40111"><img src="/images/publications/agent-error-dataset.png" alt="Agent Error Dataset construction and training overview"></a></div>
     <div class="kz-pub-body">
       <span class="kz-venue kz-venue-soft">Preprint · 2026</span>
       <span class="kz-pub-title"><a href="https://arxiv.org/abs/2609.40111">Agent Error Dataset: Scaling 50,000 Error–Diagnosis Pairs for Failure Analysis and Error-Aware Post-Training</a></span>
@@ -111,7 +111,7 @@ A full list is on my <a href="https://scholar.google.com/citations?user=A5L7wZAA
   </div>
 
   <div class="kz-pub" data-cat="agent">
-    <div class="kz-pub-fig kz-pub-mark kz-pub-mark-meta" role="img" aria-label="Learning Meta-Skills"><span>META-SKILLS</span><small>Test-Time Agent Harness Design</small></div>
+    <div class="kz-pub-fig"><a href="https://arxiv.org/abs/2609.38143"><img src="/images/publications/meta-skills.png" alt="Meta-skills learning and test-time harness design framework"></a></div>
     <div class="kz-pub-body">
       <span class="kz-venue kz-venue-soft">Preprint · 2026</span>
       <span class="kz-pub-title"><a href="https://arxiv.org/abs/2609.38143">Learning Meta-Skills for Agent Harness Design in Test-Time AI4AI</a></span>
@@ -121,7 +121,7 @@ A full list is on my <a href="https://scholar.google.com/citations?user=A5L7wZAA
   </div>
 
   <div class="kz-pub" data-cat="agent mas">
-    <div class="kz-pub-fig kz-pub-mark kz-pub-mark-relic" role="img" aria-label="Relic"><span>RELIC</span><small>Persistent Organizational Capability</small></div>
+    <div class="kz-pub-fig"><a href="https://arxiv.org/abs/2609.32965"><img src="/images/publications/relic.png" alt="Relic protocols persisting across member turnover"></a></div>
     <div class="kz-pub-body">
       <span class="kz-venue kz-venue-soft">Preprint · 2026</span>
       <span class="kz-pub-title"><a href="https://arxiv.org/abs/2609.32965">Relic: From Multi-Agent Collaboration to Persistent Organizational Capability</a></span>
