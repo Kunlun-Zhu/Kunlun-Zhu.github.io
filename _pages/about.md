@@ -41,12 +41,13 @@ Mellon University's Robotics Institute with
 
 <div class="kz-banner kz-travel-banner">
   <span class="kz-banner-ic">☕</span>
-  <span><b>Upcoming travel:</b> I will be at <b>EMNLP 2026 in Budapest</b> and <b>NeurIPS 2026 in Sydney</b>. If you will be there too, feel free to <a href="mailto:kunlunz2@illinois.edu?subject=Coffee%20chat%20at%20EMNLP%20or%20NeurIPS%202026">reach out for a coffee chat</a>!</span>
+  <span><b>Upcoming travel:</b> I will be at <b>EMNLP 2026 in Budapest</b> and <b>NeurIPS 2026 in Atlanta</b>. If you will be there too, feel free to <a href="mailto:kunlunz2@illinois.edu?subject=Coffee%20chat%20at%20EMNLP%20or%20NeurIPS%202026">reach out for a coffee chat</a>!</span>
 </div>
 
 <h2 class="kz-h2"><span class="kz-emoji">🎆</span> News</h2>
 
 <ul class="kz-news">
+  <li><span class="kz-date">Oct 2026</span><span class="kz-what">New preprint: <a href="https://arxiv.org/abs/2610.21412"><b>JevAgentHarness</b></a>, on benchmarking, deploying, and training decision models that share control with LLMs.</span></li>
   <li><span class="kz-date">Oct 2026</span><span class="kz-what"><a href="https://arxiv.org/abs/2605.26396"><b>Multimodal Creative Bench</b></a> (<i>Advancing Creative Physical Intelligence in Large Multimodal Models</i>) was accepted at <b>NeurIPS 2026</b>.</span></li>
   <li><span class="kz-date">Sep 2026</span><span class="kz-what">Released three new preprints: <a href="https://arxiv.org/abs/2609.40111"><b>Agent Error Dataset</b></a>, <a href="https://arxiv.org/abs/2609.38143"><b>Learning Meta-Skills for Agent Harness Design</b></a>, and <a href="https://arxiv.org/abs/2609.32965"><b>Relic</b></a>.</span></li>
   <li><span class="kz-date">Aug 2026</span><span class="kz-what"><b>CUADebug</b> was accepted at <b>EMNLP 2026 Findings</b>, and <b>AgentDebugX</b> at <b>EMNLP 2026</b> (System Demonstration).</span></li>
@@ -81,14 +82,24 @@ A full list is on my <a href="https://scholar.google.com/citations?user=A5L7wZAA
 </p>
 
 <div class="kz-filter" id="kz-filter">
-  <button class="kz-fbtn is-active" data-filter="all">All <span class="kz-count">28</span></button>
-  <button class="kz-fbtn" data-filter="agent">LLM Agent <span class="kz-count">15</span></button>
+  <button class="kz-fbtn is-active" data-filter="all">All <span class="kz-count">29</span></button>
+  <button class="kz-fbtn" data-filter="agent">LLM Agent <span class="kz-count">16</span></button>
   <button class="kz-fbtn" data-filter="mas">LLM Multi-Agent System <span class="kz-count">7</span></button>
   <button class="kz-fbtn" data-filter="llm">LLM <span class="kz-count">7</span></button>
   <button class="kz-fbtn" data-filter="ai4s">AI4S <span class="kz-count">7</span></button>
 </div>
 
 <div class="kz-pubs">
+
+  <div class="kz-pub" data-cat="agent">
+    <div class="kz-pub-fig"><a href="https://arxiv.org/abs/2610.21412"><img src="/images/publications/jevagentharness.png" alt="JevAgentHarness pipeline: delegation calibration, AgentDecisionBench evaluation, and AgentDecision-4B post-training"></a></div>
+    <div class="kz-pub-body">
+      <span class="kz-venue kz-venue-soft">Preprint · 2026</span>
+      <span class="kz-pub-title"><a href="https://arxiv.org/abs/2610.21412">JevAgentHarness: Benchmarking, Deploying and Training Decision Models That Share Control with LLMs</a></span>
+      <div class="kz-authors"><span class="me">K. Zhu</span>, T. Feng, X. Han, H. Wang, L. Yang, X. Tang, J. You, H. Ji</div>
+      <div class="kz-pub-links"><a href="https://arxiv.org/abs/2610.21412">arXiv</a> <a href="https://arxiv.org/pdf/2610.21412">PDF</a> <a href="https://github.com/JevAgentHarness/JevAgentHarness">Code</a></div>
+    </div>
+  </div>
 
   <div class="kz-pub" data-cat="llm">
     <div class="kz-pub-fig"><a href="https://arxiv.org/abs/2605.26396"><img src="/images/publications/physical.png" alt="Creative physical intelligence"></a></div>
